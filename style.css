@@ -1,0 +1,54 @@
+
+body {
+	font-size: 12px;
+}
+
+h2, h3{display: inline;}
+
+ol  { 
+	color: red;
+	list-style-type: upper-roman;
+	text-align: justify;
+}
+
+
+/* 2nd gen Blue */
+ol ol {  color: blue; }
+ol ol A { color: blue; }
+
+/* 3rd gen Green */
+ol ol ol {  color: #008000; }
+ol ol ol A { color: #008000; }
+
+/* 4th gen purple */
+ol ol ol ol {  color: purple; }
+ol ol ol ol A { color: purple; }
+
+/* 5th gen teal */
+ol ol ol ol ol {  color: teal; }
+ol ol ol ol ol A { color: teal; }
+
+
+/* 6th gen orange */
+ol ol ol ol ol ol {  color: orange; }
+ol ol ol ol ol ol A {color: orange;}
+
+
+/* 7th pink */
+ol ol ol ol ol ol ol { color: #FF0099; }
+ol ol ol ol ol ol ol A  {color: #FF0099;}
+
+
+
+/* 8th grey */
+ol ol ol ol ol ol ol ol{ color: grey; }
+ol ol ol ol ol ol ol ol A {color: grey;}
+
+
+/* 9th Start to recyle Red*/
+ol ol ol ol ol ol ol ol ol{  color: #800000 }
+ol ol ol ol ol ol ol ol ol A {color: #800000;}
+
+/* 10th recyle blue/ */
+ol ol ol ol ol ol ol ol ol ol{ color: #008880;}
+ol ol ol ol ol ol ol ol ol ol A {color: #008880;}
